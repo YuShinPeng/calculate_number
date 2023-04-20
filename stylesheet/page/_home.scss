@@ -1,0 +1,26 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #C6C6C6;
+}
+
+.main{
+   margin-left: 37%;
+   margin-top: 20%;
+
+   p{
+    margin: 20px 30px;
+    font-size: 10px;
+   }
+}
+
+
+.btn{
+    display: block;
+    margin: auto;
+    background-color: #6F6F6F;
+    color: white;
+    margin-top: 40px;
+    padding: 15px;
+    border-radius: 5px;
+}
